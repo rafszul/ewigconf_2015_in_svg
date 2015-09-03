@@ -1,6 +1,6 @@
 # ewigconf_2015_in_svg
 
-repository of scalable vector graphics (.svg) created from images taken during [![European Women in Games Conference](https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/ewigconf-2015-splash-scr-org.svg)](www.ewigconf.com)
+repository of scalable vector graphics (.svg) created from images taken during [![European Women in Games Conference](https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/ewigconf-2015-splash-scr-raster.png)](www.ewigconf.com)
 
 you can find all graphics in [/ewigconf_2015_svg_cleaned folder](https://github.com/rafszul/ewigconf_2015_in_svg/tree/master/_ewigconf_2015_svg_cleaned)
 
