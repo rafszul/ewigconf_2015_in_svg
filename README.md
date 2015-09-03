@@ -20,4 +20,4 @@ the graphics were created and are releases here under [gpl-v3.0](https://github.
 
 ---
 
-#ewigconf #svg
+`#ewigconf #svg`
