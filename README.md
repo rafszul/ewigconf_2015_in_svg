@@ -14,7 +14,7 @@ great job guys!
 
 ---
 
-the graphics were created and are releases here under [General Public Licence 3.0]() by
+the graphics were created and are releases here under [General Public Licence 3.0](https://github.com/rafszul/ewigconf_2015_in_svg/blob/master/LICENSE) by
 
 [![rafszul](https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/possessed-fool-rejected-by-printer.svg)](http://codepen.io/rafszul/) 
 
