@@ -4,6 +4,8 @@ repository of scalable vector graphics (.svg) created from images taken during [
 
 you can find all graphics in [/ewigconf_2015_svg_cleaned folder](https://github.com/rafszul/ewigconf_2015_in_svg/tree/master/_ewigconf_2015_svg_cleaned)
 
+see any typos, want to improve the code or change this README.md -> fork it -> edit -> commit changes -send me pull request 
+
 ---
 
 the conference has taken place on 2nd September 2015 in London, UK and was organised by 
