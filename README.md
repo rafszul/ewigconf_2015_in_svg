@@ -6,7 +6,7 @@ thanks for great time!!!
 
 ---
 
-some of you asked about the software used to trace the images. if you have an iOS device then check [IMAENGINE](https://itunes.apple.com/gb/app/imaengine-vector-camera/id599309610?mt=8) on the app store. support the developer if you like it and liked using it!!! write a review!!!
+some of you asked about the software used to trace the images. if you have an iOS device then check [IMAENGINE](https://itunes.apple.com/gb/app/imaengine-vector-camera/id599309610?mt=8) on the app store. support the developer if you like it and enjoyed using it!!! write a review!!!
 
 you can find all graphics in [/ewigconf_2015_svg_cleaned folder](https://github.com/rafszul/ewigconf_2015_in_svg/tree/master/_ewigconf_2015_svg_cleaned)
 
