@@ -1,6 +1,8 @@
 # ewigconf_2015_in_svg
 
-repository of scalable vector graphics (.svg) from images taken during [European Women in Games Conference](www.ewigconf.com) 
+repository of scalable vector graphics (.svg) created from images taken during [European Women in Games Conference](www.ewigconf.com)
+
+you can fins all graphics in [/ewigconf_2015_svg_cleaned folder]()
 
 ---
 
@@ -12,7 +14,7 @@ great job guys!
 
 ---
 
-the graphics were created and are releases here under General Public Licence 3.0 by
+the graphics were created and are releases here under [General Public Licence 3.0]() by
 
 [![rafszul](https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/possessed-fool-rejected-by-printer.svg)](http://codepen.io/rafszul/) 
 
