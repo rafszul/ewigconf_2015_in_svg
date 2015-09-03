@@ -4,13 +4,15 @@ repository of scalable vector graphics (.svg) from images taken during [European
 
 ---
 
-the conference has taken place 2nd September 2015 in London, UK and was organised by 
+the conference has taken place on 2nd September 2015 in London, UK and was organised by 
 
-[![women in games jobs](http://womeningamesjobs.com/wp/wp-content/themes/atahualpa/images/LOGO123.png)](http://www.womeningamesjobs.com/) 
+[![women in games jobs](http://womeningamesjobs.com/wp/wp-content/themes/atahualpa/images/LOGO123.png)](http://www.womeningamesjobs.com/)
+
+great job guys!
 
 ---
 
-the graphics were created and are releases here under General Public Licence by
+the graphics were created and are releases here under General Public Licence 3.0 by
 
 [![rafszul](https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/possessed-fool-rejected-by-printer.svg)](http://codepen.io/rafszul/) 
 
