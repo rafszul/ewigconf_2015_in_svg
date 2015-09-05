@@ -2,7 +2,7 @@
 
 repository of scalable vector graphics (.svg) created from images taken during [![European Women in Games Conference](https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/ewigconf-2015-splash-scr-raster.png)](www.ewigconf.com)
 
-thanks for great time!!!
+thanks for great time!!! smiles all over!!! and no, i am not trying to "finger fuck" anyone (i just had to mention this).
 
 ---
 
@@ -26,9 +26,13 @@ great job guys!
 
 ---
 
-the graphics were created and are releases here under [gpl-v3.0](https://github.com/rafszul/ewigconf_2015_in_svg/blob/master/LICENSE) by
+the graphics in this repo were created and are released under  [gpl-v3.0](https://github.com/rafszul/ewigconf_2015_in_svg/blob/master/LICENSE) by
 
-[![rafszul](https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/possessed-fool-rejected-by-printer.svg)](http://codepen.io/rafszul/) 
+[![rafszul](https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/possessed-fool-rejected-by-printer.svg)](http://codepen.io/rafszul/)
+
+---
+
+click on the graphic, poke me on codepen and let's make a game together! 
 
 ---
 
